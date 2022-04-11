@@ -24,6 +24,7 @@ This project was made with Nodejs in Backend and Reactjs in frontend
 * Sequelize
 * JWT
 * passport
+* AWS S3
 
 
 
