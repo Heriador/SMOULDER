@@ -14,7 +14,7 @@ also make track of the tasks asigned to every employee to help them complete the
 
 ## Technologies
 
-This project was construct with Nodejs in Backend and Reactjs in frontend
+This project was made with Nodejs in Backend and Reactjs in frontend
 
 ### Backend
 [See all the code](https://github.com/Heriador/smoulder-backend)
