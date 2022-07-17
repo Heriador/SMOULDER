@@ -1,5 +1,4 @@
-# SMOULDER
-##Web system for the management of company multimedia documents
+# SMOULDER (Web system for the management of company multimedia documents) 
 
 ## Software Engineering: Final Proyect
 
